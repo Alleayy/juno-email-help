@@ -8,6 +8,7 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+templates_path = ['_templates']
 
 
 html_js_files = [

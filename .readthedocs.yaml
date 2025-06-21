@@ -20,3 +20,7 @@ sphinx:
 # python:
 #    install:
 #    - requirements: docs/requirements.txt
+sphinx:
+  configuration: docs/conf.py
+html_extra_path:
+  - docs/googlexxxxx.html
